@@ -1,38 +1,25 @@
-# Hi there 👋, Welcome to my GitHub Profile
+<p align="center">
+    <img src="banner.png">
+</p>
 
-## Intro
-* Hello! I'm Elodie and currently a student in @Holberton School LAVAL.fr I'd be finishing my studies in X months and I'm looking for an internership in WebDev.
-* etc..
+<p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=merko">    <img  alt="elodieriou's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/elodieriou?cardType=octocat&theme=merko" />  </a>
+</p>
 
-## Technologies
-* During my first year at Holberton, I worked mainly in C language, Python, and Bash scripting.
-* Thus I'm comfortable with web development in Python with focus oriented object, unit testing and building MySQL Database.
-* I'm also interesting about front end: HTML, CSS, JavaScript
+<div align="center">
+    <a href="https://github.com/elodieriou" target="_blank" rel="noreferrer">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/elodieriou-dev" target="_blank" rel="noreferrer">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://medium.com/@elodieriou" target="_blank" rel="noreferrer">
+        <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+    </a>
+</div>
 
-## Learning in progress
-* I'm learning JAVA too because it's a stack very use. I think it's necessary to know it.
-* After JAVA, I will learn Angular
+<p align="center">
+    <img width="290" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elodieriou&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&layout=compact&langs_count=12">
+</p>
 
-## Collaboration project
-* I recreated the printf function and Linux Shell with 2 different groups. 
-* Throughout the 2nd and 3rd trimester, we worked on AirBnB project clone, which is a simple copy of the AirBnb platform. This big project is devided into different small project. I worked with different teams, remotely as well. We created the front-end part from scratch. (responsive design and accessibility). We worked on the backend platform using Python3, MySQL and Flask as web framework.
-* Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
-
-## My Portfolio project
-* For my portfolio project, I worked individually on a desktop and mobile application. 
-* It's an ..., built with ...
-* The organisation was ...
-* Something I learned ... (for example PWA)
-* I defined the techstack, the functionalities and the prototype in 2 weeks and developed the MVP in 2/3 weeks (bug free)
-* I enjoyed working on this project because ...
-
-#### if you want to reach out to me, you can message me on:
-* Linkedin
-
-#### 
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
-
-## Languages and tools
-* puts logo
-
+![Visitor Count](https://profile-counter.glitch.me/elodieriou/count.svg)
